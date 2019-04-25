@@ -38,9 +38,9 @@ namespace Galeria_WEB.Controllers
         [HttpPost]
         public ActionResult Welcome()
         {
-            string result = "";
             string sw = Request["switch"];
             BaseDatos DB = new BaseDatos();
+            List<Usuario> userList = new List<Usuario>();
             if (sw == "1")
             {
                 string nombre = Request["name"];
@@ -61,14 +61,23 @@ namespace Galeria_WEB.Controllers
                     int aux = DB.insertDate(user);
                     if(aux == 0)
                     {
-                        result = DB.TraerUsuarios();
-                        ViewData["users"] = result;
+                        userList = DB.TraerUsuarios();
+                        ViewData["users"] = userList;
+                        //this.Session["Login"] = user.NombreUsuario;
+                        //this.Request();
+                        ViewBag.Message = user;
                         return View();
+                    }
+                    else if(aux == 1)
+                    {
+                        
+                        ViewData["Error"] = "Error al ingresar los campos";
+                         return View("Registro");
                     }
                     else
                     {
-                        ViewData["Error"] = "Error al ingresar los campos";
-                         return View("Registro");
+                        ViewData["Error"] = "Este usuario ya existe";
+                        return View("Registro");
                     }
                 }
             }
@@ -76,7 +85,7 @@ namespace Galeria_WEB.Controllers
             {
                 string nombreUsuario = Request["Username"];
                 string contrasena = Request["password"];
-                if(nombreUsuario == "" && contrasena == ""){
+                if(nombreUsuario == "" || contrasena == ""){
                     ViewData["Error"] = "Todos los campos son obligatorios";
                     return View("index");
                 }
@@ -87,6 +96,8 @@ namespace Galeria_WEB.Controllers
                     string aux = DB.Validar(user);
                     if (aux == user.NombreUsuario)
                     {
+
+                        ViewBag.Message = user;
                         return View();
                     }
                     else

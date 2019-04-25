@@ -1,8 +1,13 @@
-﻿
-@{
-    ViewBag.Title = "Welcome";
+﻿@{
+                ViewBag.Title = "Welcome";
 }
 
 <h2>Welcome</h2>
 
 <h3>Usuarios registrados</h3>
+@{
+    var data = ViewBag.Message;
+}
+<h3>Id: @data.Contrasena</h3>
+<h3>UserName: @data.NombreUsuario</h3>
+
