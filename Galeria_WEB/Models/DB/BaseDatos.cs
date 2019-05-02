@@ -96,7 +96,7 @@ namespace Galeria_WEB.Models.DB
         return sw;
     }
 
-        public string Validar(Usuario user)
+        public string Validar(Usuario user) // Valida el usuario y la contraseña
         {
             string result = "";
             try
@@ -122,7 +122,7 @@ namespace Galeria_WEB.Models.DB
             return result;
         }
 
-        public bool ValidarExistencia(Usuario user)
+        public bool ValidarExistencia(Usuario user) //Valida que no me ingresen un nombre de usuario que ya exista
         {
             string result = "";
             try
@@ -154,7 +154,8 @@ namespace Galeria_WEB.Models.DB
             }
         }
 
-        public List<Usuario> TraerUsuarios() {
+        public List<Usuario> TraerUsuarios()  //    Muestra los usuarios registrados en la db
+        { 
             string result = "";
             string UsName = "";
             string ID = "";

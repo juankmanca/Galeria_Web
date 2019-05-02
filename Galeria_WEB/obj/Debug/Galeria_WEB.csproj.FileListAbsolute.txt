@@ -88,3 +88,182 @@ C:\Users\hp\source\repos\Galeria_WEB\Galeria_WEB\bin\es\System.Web.WebPages.Razo
 C:\Users\hp\source\repos\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.csproj.CopyComplete
 C:\Users\hp\source\repos\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.dll
 C:\Users\hp\source\repos\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.pdb
+F:\DES\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.csprojAssemblyReference.cache
+F:\DES\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.csproj.CoreCompileInputs.cache
+F:\DES\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.dll
+F:\DES\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.pdb
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Galeria_WEB.dll.config
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Galeria_WEB.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Galeria_WEB.pdb
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\csc.exe
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\csc.exe.config
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\csc.rsp
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\csi.exe
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\csi.exe.config
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\csi.rsp
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.AppContext.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Collections.Immutable.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Console.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.Compression.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.FileSystem.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.Pipes.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.AccessControl.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Claims.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Principal.Windows.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.ValueTuple.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.XPath.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\vbc.exe
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\vbc.exe.config
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\vbc.rsp
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\VBCSCompiler.exe
+F:\DES\Galeria_WEB\Galeria_WEB\bin\roslyn\VBCSCompiler.exe.config
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Antlr3.Runtime.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Microsoft.Web.Infrastructure.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Newtonsoft.Json.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Diagnostics.DiagnosticSource.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Helpers.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Mvc.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Optimization.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Razor.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Deployment.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Razor.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\WebGrease.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Google.Protobuf.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\MySql.Data.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Helpers.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Mvc.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Optimization.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.Razor.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Deployment.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Razor.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Newtonsoft.Json.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Antlr3.Runtime.pdb
+F:\DES\Galeria_WEB\Galeria_WEB\bin\System.Diagnostics.DiagnosticSource.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DES\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Helpers.resources.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Mvc.resources.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Optimization.resources.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Razor.resources.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\es\System.Web.WebPages.resources.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\DES\Galeria_WEB\Galeria_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\DES\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.csproj.CopyComplete
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Galeria_WEB.dll.config
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Galeria_WEB.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Galeria_WEB.pdb
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\csc.exe
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\csc.exe.config
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\csc.rsp
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\csi.exe
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\csi.exe.config
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\csi.rsp
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.AppContext.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Console.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\vbc.exe
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\vbc.exe.config
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\vbc.rsp
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Antlr3.Runtime.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\MySql.Data.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Helpers.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Mvc.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Optimization.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Razor.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\WebGrease.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Google.Protobuf.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\MySql.Data.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Helpers.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Mvc.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Optimization.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.Razor.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Newtonsoft.Json.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\es\System.Web.WebPages.resources.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.csproj.CopyComplete
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual sin git\Galeria_WEB\Galeria_WEB\obj\Debug\Galeria_WEB.pdb

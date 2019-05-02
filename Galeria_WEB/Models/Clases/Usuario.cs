@@ -7,7 +7,8 @@ namespace Galeria_WEB.Models.Clases
 {
     public class Usuario : Persona
     {
-        private string nombreUsuario, avatar;
+        private string avatar;
+        private string nombreUsuario;
         private List<Album> albumlist;
         private Imagen imagenref;
         private string contrasena;
