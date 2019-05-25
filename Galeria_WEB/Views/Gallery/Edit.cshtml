@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<style>
+    .section {
+        margin: 50px auto;
+        background-color: white;
+        padding: 5%;
+    }
+
+    #logout {
+        margin-bottom: 10px;
+    }
+
+    .control {
+        display: inline-flex;
+    }
+
+        .control form {
+            padding: 10px;
+        }
+</style>
+<div class="section">
+    <h2>Edit</h2>
+
+    @{
+        var data = ViewBag.Message;
+        var user = ViewBag.User;
+    }
+    <h3>Username: @data.NombreUsuario</h3>
+     <a href="/" class="btn btn-primary btn-lg active" id="logout" role="button" aria-pressed="true">Log out</a>   <br />
+
+    <form action="/Gallery/EditData" method="post" class="card">
+        <div class="form-group">
+            <label >Cambiar contraseña de: <b>@user</b></label>
+            <input class="form-control" type="password" name="password" />
+            <input type="text" name="username" value="@user" hidden/>
+        </div>
+
+        <input type="submit" name="btnEdit" value="Save" class="btn btn-success"/>
+    </form>
+
+
+</div>

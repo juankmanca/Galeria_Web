@@ -6,24 +6,29 @@ using MySql.Data.MySqlClient;
 using Galeria_WEB.Models.Clases;
 using System.Data;
 
-namespace Galeria_WEB.Models.DB
+namespace Galeria_WEB.DAO
 {
     public class BaseDatos
     {
-        MySqlConnection galeriaC = new MySqlConnection();
+        protected MySqlConnection galeriaC = new MySqlConnection();
 
-        public BaseDatos()
+
+        public void OpenConnection()
         {
-                galeriaC.ConnectionString = "server = 127.0.0.1; "
+            galeriaC.ConnectionString = "server = 127.0.0.1; "
                                 + "uid= root; "
                                 + "pwd= root; "
                                + "database= galeria;";
-                galeriaC.Open();
-            
+            galeriaC.Open();
         }
 
-  
-    public int insertDate(Usuario user)
+        public void CloseConnnection()
+        {
+            galeriaC.Close();
+        }
+
+  /*
+    public int InsertUser(Usuario user)
     {
         int sw = 0;
 
@@ -65,9 +70,7 @@ namespace Galeria_WEB.Models.DB
                             Resultado = Resultado + (row["RESULT"]);
 
                         }
-
-                        //MessageBox.Show(Resultado); //Esto es para ver que me guarda la consulta, que al parecer no es nada,
-                        //Sin embargo tampoco me saca un error de sintaxis
+                        
                     }
                     catch (MySqlException e)
                     {
@@ -94,9 +97,9 @@ namespace Galeria_WEB.Models.DB
                 sw = 2;
             }
         return sw;
-    }
-
-        public string Validar(Usuario user) // Valida el usuario y la contraseña
+    } */
+    /*
+        public string ValidarUserPass(Usuario user) // Valida el usuario y la contraseña
         {
             string result = "";
             try
@@ -153,7 +156,8 @@ namespace Galeria_WEB.Models.DB
                 return false;
             }
         }
-
+         */
+        /*
         public List<Usuario> TraerUsuarios()  //    Muestra los usuarios registrados en la db
         { 
             string result = "";
@@ -185,6 +189,6 @@ namespace Galeria_WEB.Models.DB
 
             return UserList;
         }
-
+        */
     }
 }

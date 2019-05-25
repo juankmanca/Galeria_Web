@@ -127,7 +127,12 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\GalleryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="DAO\daoCreate.cs" />
+    <Compile Include="DAO\daoDelete.cs" />
+    <Compile Include="DAO\daoRead.cs" />
+    <Compile Include="DAO\daoUpdate.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -136,7 +141,7 @@
     <Compile Include="Models\Clases\Ordenxalbum.cs" />
     <Compile Include="Models\Clases\Persona.cs" />
     <Compile Include="Models\Clases\Usuario.cs" />
-    <Compile Include="Models\DB\BaseDatos.cs" />
+    <Compile Include="DAO\BaseDatos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -144,7 +149,10 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Fondos\delete.png" />
+    <Content Include="Content\Fondos\edit.png" />
     <Content Include="Content\Fondos\login2.jpg" />
+    <Content Include="Content\MisEstilos\WelcomStyle.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -162,7 +170,6 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Content\Fondos\logo.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -178,10 +185,12 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Registro.cshtml" />
-    <Content Include="Views\Home\Welcome.cshtml" />
-    <Content Include="Views\Home\Logout.cshtml" />
-    <Content Include="Views\Home\Delete.cshtml" />
-    <Content Include="Views\Home\Edit.cshtml" />
+    <Content Include="Views\Gallery\Welcome.cshtml" />
+    <Content Include="Views\Gallery\Delete.cshtml" />
+    <Content Include="Views\Gallery\Edit.cshtml" />
+    <Content Include="Views\Gallery\ValidarLogin.cshtml" />
+    <Content Include="Views\Gallery\ValidarRegistro.cshtml" />
+    <Content Include="Views\Gallery\EditData.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

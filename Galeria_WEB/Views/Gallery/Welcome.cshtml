@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Welcome";
+    List<Galeria_WEB.Models.Clases.Usuario> objetos = (List<Galeria_WEB.Models.Clases.Usuario>) ViewData["userList"];
+}
+
+<link href="~/Content/MisEstilos/WelcomStyle.css" rel="stylesheet" />
+<div class="section">
+    <h2>Welcome</h2>
+
+    <h3>Usuarios registrados</h3>
+    @{
+        var data = ViewBag.Message;
+    }
+    <h3>UserName: @data.NombreUsuario</h3>
+
+    <a href="/" class="btn btn-primary btn-lg active" id="logout" role="button" aria-pressed="true">Log out</a>   <br />
+
+    <table class="table" id="EstiloBonito">
+        <tr>
+            <th>Nombre Usuario</th>
+            <th>Nombre</th>
+            <th>cedula</th>
+            <th>Mail</th>
+            <th>Controles</th>
+        </tr>
+        @foreach (var obj in objetos)
+        {
+            if (!obj.NombreUsuario.Equals(data.NombreUsuario))
+            {
+            <tr >
+                <td>
+                    @obj.NombreUsuario
+                </td>
+                <td> @obj.Nombre</td>
+                <td> @obj.Cedula</td>
+                <td> @obj.Correo</td>
+                <td>
+                    <div class="control">
+                        <form action="/Gallery/Delete" method="post">
+                            <input type="text" name="username" value="@obj.NombreUsuario" hidden />
+                            <input type="text" name="session" value="@data.NombreUsuario" hidden />
+                            <input class="btn btn-danger" type="image" name="Delete" 
+                             src="~/Content/Fondos/delete.png" width="60" height="40" style="background: white"/>
+                        </form>
+                        <form action="/Gallery/Edit" method="get">
+                            <input type="text" name="username" value="@obj.NombreUsuario" hidden />
+                            <input type="text" name="session" value="@data.NombreUsuario" hidden />
+                            <input class="btn btn-warning" type="image" name="Edit"
+                                   src="~/Content/Fondos/edit.png" width="60" height="40" style="background: white" />
+                            
+                        </form>
+                    </div>
+                </td>
+            </tr>
+                }
+            }
+    </table>
+
+</div>

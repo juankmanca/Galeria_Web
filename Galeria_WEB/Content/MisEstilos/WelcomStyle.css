@@ -1,0 +1,23 @@
+﻿.section {
+    margin: 50px auto;
+    background-color: white;
+    padding: 5%;
+}
+
+#logout {
+    margin-bottom: 10px;
+}
+
+.control {
+    display: inline-flex;
+}
+
+    .control form {
+        padding: 10px;
+    }
+#EstiloBonito tr:nth-child(odd) {
+    background-color: hotpink;
+}
+#EstiloBonito tr:nth-child(even) {
+    background-color: lightpink;
+}

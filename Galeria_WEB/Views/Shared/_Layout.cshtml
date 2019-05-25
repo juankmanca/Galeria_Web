@@ -25,7 +25,19 @@
                     <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
                     <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
                     <li>@Html.ActionLink("Registro", "Registro", "Home")</li>
+                    
+                        @{
+                            var data = ViewBag.Message;
+                        }
+
+                    <li><a href="#"> <p>@data.NombreUsuario</p></a></li>
+                   
                 </ul>
+                <div id="hola">
+                    <ul class="nav navbar-nav" style="margin-right: 40px">
+                        <li><a href="#"> <p>@data.NombreUsuario</p></a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
